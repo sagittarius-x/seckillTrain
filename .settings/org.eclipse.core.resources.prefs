@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+encoding//src/main/java/com/suny/dao/SeckillMapper.java=UTF-8
+encoding//src/main/java/com/suny/dao/SuccessKilledMapper.java=UTF-8
+encoding//src/main/java/com/suny/dto/SeckillExecution.java=UTF-8
+encoding//src/main/java/com/suny/interfaces/SeckillService.java=UTF-8
+encoding//src/test/java/com/suny/service/SeckillServiceImplTest.java=UTF-8
